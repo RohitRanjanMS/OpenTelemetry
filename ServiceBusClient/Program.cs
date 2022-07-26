@@ -33,6 +33,6 @@ for (int i = 0; i < 1000; i++)
     activity?.SetTag("counter", i);    
     await sender.SendMessageAsync(new ServiceBusMessage("{\"Name\":\"" + i + "\"}"));
     activity?.Stop();
-    Thread.Sleep(30000);
+    Thread.Sleep(3000);
 }
 
