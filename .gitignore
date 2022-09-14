@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/HttpExample/OTelHttpExample/HttpTrigger2/.gitignore
+/HttpExample/OTelHttpExample/HttpTrigger1/Properties
+/HttpExample/OTelHttpExample/HttpTrigger2/Properties
+/HttpExample/OTelHttpExample/TimerTrigger/Properties
+/HttpExample/OTelHttpExample/TimerTrigger/.gitignore
+/HttpExample/OTelHttpExample/HttpTrigger1/.gitignore
